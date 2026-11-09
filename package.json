@@ -1,0 +1,14 @@
+{
+  "name": "mmo-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@colyseus/schema": "^3.0.0",
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^13.0.3",
+    "colyseus": "^0.16.0"
+  }
+}
